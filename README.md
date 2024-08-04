@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on game development projects, internships in the tech industry, and any opportunities related to programming and game design.
 
-📫 How to reach me: You can contact me via email at mukbambot118@gmail.com or connect with me on LinkedIn.
+📫 How to reach me: You can contact me via email at mukbambot118@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mukarram-bambot-386452282).
 
 😄 Pronouns: He/Him
 
