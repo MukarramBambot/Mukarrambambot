@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm an enthusiastic game developer, Python program
 
 ## 📫 How to Reach Me
 - **Email:** mukbambot118@gmail.com
-- **[LinkedIn](https://www.linkedin.com/in/mukarram-bambot-386452282)**
+- **[LinkedIn](https://www.linkedin.com/in/mukarrambambot)**
 
 ---
 
