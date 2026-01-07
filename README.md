@@ -1,126 +1,83 @@
-# Hi there, I'm Mukarram Bambot 👋  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-386452282-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukarram-bambot-386452282)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel)](https://mukarrambambotportfolio.onrender.com)
-[![Email](https://img.shields.io/badge/Email-mukbambot118@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mukbambot118@gmail.com)
+<!-- ANIME HEADER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
+</p>
 
-**BCA Graduate | Full-Stack & Backend-Focused Developer | AI Systems Explorer**
+<h1 align="center">Hi there, I'm Mukarram Bambot 👋</h1>
+<h3 align="center">Full-Stack Developer | Backend & AI Systems Explorer</h3>
 
-I build **practical, system-driven applications** with a strong focus on **backend logic, workflows, and real-world problem solving**.  
-I learn by building, breaking, and improving — not just tutorials.
-
----
-
-## 🧠 Who I Am
-- 🎓 BCA graduate with hands-on academic & internship projects  
-- 🔧 Comfortable working across **frontend, backend, and databases**  
-- 🤖 Exploring **AI systems, automation, and agent-based workflows**  
-- 🚀 Actively looking for **internships, trainee, or junior developer roles**
-
----
-
-## 🚀 What I’m Working On Now
-- Designing **backend workflows & approval systems**
-- Learning **AI-assisted decision systems**
-- Improving **system architecture understanding**
-- Practicing **clean code & real project structure**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukarrambambot">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:mukbambot118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://mukarrambambotportfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## 👀 Core Interests
-- Backend & Full-Stack Development  
-- AI-driven Applications & Automation  
-- System Design & Workflows  
-- Game Development (Learning Phase)  
+## 🧠 About Me (Code Style)
 
----
+```ts
+const mukarram = {
+  education: "BCA Graduate",
+  location: "Chennai, India",
+  focus: [
+    "Backend Development",
+    "Full-Stack Applications",
+    "AI & Agent-based Systems",
+    "System Workflows"
+  ],
+  mindset: "Learn by building real projects",
+  goal: "Junior / Trainee Developer Role"
+};
+```
+<p align="right"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/> </p>
+🚀 What I’m Working On
+🔹 Backend workflows & approval systems
 
-## 🧩 Featured Projects (Highlights)
+🔹 AI-assisted decision logic
 
-### 🔹 Patric Hall Booking System
-A college hall booking platform with **role-based access**, **approval workflows**, and **activity logs**.  
-**Tech:** React, Node.js, MySQL  
+🔹 Clean system architecture
 
-### 🔹 AluOptimize
-An **AI-driven industrial optimization platform** built during my internship at **VCodez**.  
-Focuses on **prediction, waste optimization, and decision support**.  
-**Tech:** React, Django, MySQL  
+🔹 Real-world project scaling
 
-### 🔹 S-SAFE (Student Scam & Fraud Eliminator)
-A **multi-agent AI system** that analyzes job offers and detects scams using  
-**internet verification, reasoning, and pattern analysis**.  
-**Tech:** FastAPI, Python, Agent-based logic  
+🧰 Programming Languages (Box Style)
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </p>
+🌐 Frameworks & Libraries
+<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine"/> </p>
+🗄️ Databases & Tools
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/> </p>
+🧩 Featured Projects
+yaml
+Copy code
+- Patric Hall Booking System:
+    description: Role-based college hall booking platform
+    stack: React, Node.js, MySQL
 
----
+- AluOptimize:
+    description: AI-driven industrial optimization platform
+    stack: React, Django, MySQL
 
-## 🛠️ Technical Skills
+- S-SAFE:
+    description: Multi-agent AI system to detect job scams
+    stack: FastAPI, Python
+🏆 Achievements
+🥇 Winner – UI Design Hackathon
 
-### 💻 Programming Languages
-- Python  
-- JavaScript  
-- C, C++, C#  
-- Java  
+🏅 UI Prize – Loyola College Hackathon (AI Hackathon)
 
-### 🌐 Web Development
-- React  
-- Node.js & Express  
-- HTML, CSS, Tailwind  
-- REST APIs  
-
-### 🧠 AI & Logic
-- Rule-based systems  
-- Prediction logic  
-- Agent-based workflows  
-- Data-driven decision making  
-
-### 🗄️ Databases
-- MySQL  
-
-### 🎮 Game Development
-- Unreal Engine (Beginner)
-
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Postman  
-- GitHub Codespaces  
-
----
-
-## 🏆 Achievements & Recognition
-- 🥇 **Winner – User Interface Design Hackathon**  
-- 🏅 **UI Prize – Loyola College Hackathon**  
-  *(Mind Over Machine – AI Hackathon)*  
-
----
-
-## 📚 How I Learn & Work
-- Build first, optimize later  
-- Prefer **real projects over tutorials**  
-- Document systems and workflows  
-- Focus on **clarity, logic, and maintainability**
-
----
-
-## 🤝 Open to Opportunities
-- Internships / Trainee roles  
-- Junior Backend / Full-Stack roles  
-- AI-assisted system projects  
-- Open-source collaboration  
-
----
-
-## 📫 Contact & Links
-- 📧 Email: **mukbambot118@gmail.com**  
-- 🌐 Portfolio: https://mukarrambambotportfolio.onrender.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mukarrambambot  
-- 🧑‍💻 GitHub: https://github.com/MukarramBambot  
-
----
-
-## 📈 GitHub Activity
-![Mukarram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukarrambambot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukarrambambot&layout=compact&theme=radical)
-
----
-
-⚡ *Learning by building. Improving by failing. Growing with every commit.*
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mukarrambambot&show_icons=true&theme=radical" width="400"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukarrambambot&layout=compact&theme=radical"/> </p>
+🎯 Philosophy
+txt
+Copy code
+"Build real things.
+Break them.
+Fix them.
+Repeat."
+<p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/> </p>
