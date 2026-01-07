@@ -78,17 +78,31 @@ I’m Mukarram Bambot, a BCA graduate based in Chennai, India. I build backend-f
 - Winner – User Interface Design Hackathon
 - UI Prize – Loyola College Hackathon (AI Hackathon)
 
-## 📊 GitHub Stats
+## 🔥 Activity Highlights
+
+- Actively building real-world projects focused on backend and system logic
+- Focused on AI-assisted decision workflows and maintainable architecture
+- Consistent hands-on learning through project-driven development
+
+## 🏅 Achievements
+
+- Winner – User Interface Design Hackathon
+- UI Prize – Loyola College Hackathon (AI Hackathon)
+
+## 🤝 Contribution Mindset
+
+- I prefer building small, testable features and iterating quickly
+- I document system decisions and keep codebase clarity in mind
+- Open to collaboration, internships, and trainee roles
+
+## 👁️ Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukarramBambot&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukarramBambot&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+  <img src="https://komarev.com/ghpvc/?username=MukarramBambot&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<p align="center">If the cards above fail to load, view the profile at https://github.com/MukarramBambot</p>
+## 🎯 Final Tagline
 
-## 🎯 Philosophy
-
-Learning by building. Improving with every commit.
+Building systems. Learning every day. Improving with every commit.
 
 <p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/> </p>
