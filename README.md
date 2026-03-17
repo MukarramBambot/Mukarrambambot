@@ -1,190 +1,246 @@
-<!-- HEADER -->
+<!-- HERO BANNER -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,100:2c5364&text=Mukarram%20Bambot&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
+
 </p>
 
-<h1 align="center">Hi 👋 I'm Mukarram Bambot</h1>
-<h3 align="center">Full-Stack Developer • Freelancer • Founder of MB Tech Labs</h3>
+<h2 align="center">
+AI Systems Developer • Full-Stack Engineer • Founder of MB Tech Labs
+</h2>
 
 <p align="center">
-  Building real-world systems, SaaS products, and AI-powered tools.
+Building intelligent systems, SaaS platforms and real-world software products.
 </p>
 
----
-
-# 🌍 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mukarrambambot">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mukbambot118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://mukarrambambotportfolio.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-  </a>
-</p>
 
----
+<a href="https://www.linkedin.com/in/mukarrambambot">
+<img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-# 🧠 About Me
+<a href="mailto:mukbambot118@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-I’m **Mukarram Bambot**, a Full-Stack Developer based in **Chennai, India 🇮🇳**.
+<a href="https://mukarrambambotportfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge"/>
+</a>
 
-I specialize in building **backend-driven applications, workflow systems, and AI-assisted platforms** that solve real-world problems.
-
-I am also:
-
-🚀 **Founder of MB Tech Labs** — a growing software development startup focused on building scalable digital solutions.
-
-💻 **Freelance Developer** — helping businesses build websites, web applications, and custom software solutions.
-
-I enjoy designing **clean backend architectures, automation systems, and intelligent software tools**.
-
----
-
-# 🏢 MB Tech Labs
-
-**MB Tech Labs** is a software development initiative focused on creating:
-
-• Web Applications  
-• Business Automation Tools  
-• SaaS Platforms  
-• AI-Powered Systems  
-• Mobile Applications  
-• E-commerce Solutions  
-
-Our goal is to **help businesses digitize their operations and scale using technology.**
-
----
-
-# 🚀 Current Focus
-
-🔹 Building SaaS platforms  
-🔹 Backend workflows and automation systems  
-🔹 AI-assisted decision systems  
-🔹 Scalable system architecture  
-🔹 Startup and product development
-
----
-
-# 🧰 Tech Stack
-
-## Programming Languages
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
 
-## Frameworks & Libraries
+# 👨‍💻 About Me
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine"/>
-</p>
+I’m **Mukarram Bambot**, a developer based in **Chennai, India 🇮🇳**.
+
+I focus on building **backend-driven applications, AI-powered tools, and real-world software systems**.
+
+My work combines:
+
+• **Full-Stack Development**
+• **AI Systems Engineering**
+• **Automation Tools**
+• **SaaS Product Development**
+
+I enjoy designing **clean architectures, intelligent systems, and scalable software solutions**.
 
 ---
 
-## Databases & Tools
+# 🚀 Founder — MB Tech Labs
 
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-</p>
+**MB Tech Labs** is my independent development initiative focused on building modern digital products and business software.
+
+We develop:
+
+• 🌐 Web Applications
+• ⚙ Business Automation Systems
+• 📦 SaaS Platforms
+• 🤖 AI Tools
+• 🛒 E-commerce Solutions
+• 📱 Mobile Applications
+
+Goal → **Help businesses digitize and scale using technology.**
+
+---
+
+# 🤖 S.H.A.L.I.N.I — Personal AI Assistant
+
+```
+S.H.A.L.I.N.I
+Somewhat Hyperactive Assistant for
+Limitless Innovation &
+Nerdy Ideas
+```
+
+A personal AI assistant system currently under development designed to assist with:
+
+• coding assistance
+• automation workflows
+• developer productivity
+• intelligent task handling
+
+🔗 Repository
+https://github.com/MukarramBambot/S.H.A.L.I.N.I
 
 ---
 
 # 🧩 Featured Projects
 
-### 🏫 Patric Hall Booking System
-Role-based hall booking system for colleges with approval workflows and audit logs.
+### 🛡 S-SAFE — Student Scam & Fraud Eliminator
 
-**Stack:** React • Node.js • MySQL
+AI-powered multi-agent system designed to detect fake internships, job scams, and phishing attacks.
+
+Tech Stack
+FastAPI • Python • Knowledge Base Systems
 
 ---
 
 ### 🤖 AluOptimize
-AI-driven industrial optimization system focusing on prediction, waste reduction, and intelligent recommendations.
 
-**Stack:** React • Django • MySQL
+Industrial AI platform designed to predict production output, reduce waste and improve efficiency in aluminum manufacturing.
 
----
-
-### 🛡️ S-SAFE
-Student Scam & Fraud Eliminator — AI-powered system that detects fake job offers using verification and reasoning agents.
-
-**Stack:** FastAPI • Python
+Tech Stack
+React • Django • MySQL
 
 ---
 
-### 📦 ShipSync (Upcoming SaaS)
-Shipment notification and automation platform for businesses using courier services like DTDC and Delhivery.
+### 🏫 Patric Hall Booking System
 
-**Stack:** Django • MySQL • React
+Full-stack campus hall booking system enabling role-based booking requests and approval workflows.
+
+Tech Stack
+React • Node.js • Express • MySQL
+
+---
+
+### 📍 PatriGuide
+
+Campus navigation system built for Patrician College that helps students locate facilities using QR and voice guidance.
+
+Tech Stack
+TypeScript • Web Technologies
+
+---
+
+### 🎓 AI Career Compass
+
+AI-powered career recommendation system based on skills and interests.
+
+Tech Stack
+React • AI Recommendation Models
+
+---
+
+# 🔬 Engineering Experiments
+
+I frequently explore and experiment with different technologies including:
+
+• AI prototypes
+• IoT concepts
+• system architecture experiments
+• game engines
+• developer tools
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nodejs,django,fastapi,mysql,git,github,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MukarramBambot&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukarramBambot&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MukarramBambot/MukarramBambot/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📊 3D Contribution Graph
+
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg"/>
+
+</p>
+
+---
+
+# 📈 Developer Metrics
+
+<p align="center">
+
+<img src="/metrics.svg"/>
+
+</p>
 
 ---
 
 # 🏆 Achievements
 
-🏆 Winner — UI Design Hackathon  
-🥈 UI Prize — Loyola College AI Hackathon  
+🏆 Winner — UI Design Hackathon
+🥈 UI Prize — Loyola College AI Hackathon
 
 ---
 
-# 🤝 Freelance Services
+# 💼 Freelance Development
 
-I currently provide freelance services for:
+I currently offer freelance development services for:
 
-• Business Websites  
-• Web Applications  
-• SaaS Development  
-• Automation Systems  
-• E-commerce Platforms  
-• Backend API Development  
+• Web applications
+• SaaS platforms
+• backend API development
+• automation systems
+• custom software solutions
 
-If you want to build **a website, software system, or startup product**, feel free to reach out.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MukarramBambot&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukarramBambot&theme=tokyonight"/>
-</p>
+Open to **startup collaborations, freelance projects, and developer opportunities.**
 
 ---
 
-# 👁️ Profile Views
+# 👁 Profile Visitors
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=MukarramBambot&style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 🎯 Final Tagline
+# ⚡ Developer Philosophy
 
-🚀 Building systems.  
-📚 Learning every day.  
-⚡ Improving with every commit.
+> Build systems that solve real problems.
+> Learn continuously.
+> Improve with every commit.
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+
 </p>
