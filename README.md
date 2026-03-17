@@ -1,7 +1,7 @@
 <!-- HERO BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Mukarram%20Bambot&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:1A4B8C,100:3B82F6&text=Mukarram%20Bambot&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">
@@ -15,15 +15,15 @@ Building intelligent systems, SaaS platforms and real-world software products.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mukarrambambot">
-<img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Network-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mukbambot118@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://mukarrambambotportfolio.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-3B82F6?style=for-the-badge"/>
 </a>
 
 </p>
@@ -34,23 +34,23 @@ Building intelligent systems, SaaS platforms and real-world software products.
 
 I’m **Mukarram Bambot**, a developer based in **Chennai, India 🇮🇳**.
 
-I build **backend-driven applications, AI-powered tools, SaaS platforms, and automation systems** that solve real-world problems.
+I build **backend-driven applications, AI-powered systems, SaaS platforms, and automation tools** that solve real-world problems.
 
-My development interests include:
+My main focus areas:
 
 • Full-Stack Development
 • AI Systems Engineering
-• Automation Platforms
 • SaaS Product Development
+• Automation Platforms
 • System Architecture
 
-I enjoy designing **clean backend architectures, scalable platforms, and intelligent developer tools**.
+I enjoy designing **scalable backend systems, intelligent developer tools, and modern web platforms.**
 
 ---
 
 # 🚀 Founder — MB Tech Labs
 
-**MB Tech Labs** is my independent software development initiative focused on building modern digital products.
+**MB Tech Labs** is my independent software development initiative focused on building modern digital products and scalable software systems.
 
 We develop:
 
@@ -61,7 +61,7 @@ We develop:
 • 🛒 E-commerce Solutions
 • 📱 Mobile Applications
 
-🎯 **Mission:** Help businesses digitize operations and scale through technology.
+🎯 **Mission:** Help businesses digitize and scale using technology.
 
 ---
 
@@ -74,12 +74,12 @@ Limitless Innovation &
 Nerdy Ideas
 ```
 
-An AI assistant system currently under development designed to assist with:
+A personal **AI assistant system** currently under development designed to assist with:
 
 • coding assistance
-• automation workflows
+• workflow automation
 • developer productivity
-• intelligent decision systems
+• intelligent task handling
 
 🔗 Repository
 https://github.com/MukarramBambot/S.H.A.L.I.N.I
@@ -90,7 +90,7 @@ https://github.com/MukarramBambot/S.H.A.L.I.N.I
 
 ### 🛡 S-SAFE — Student Scam & Fraud Eliminator
 
-AI-powered multi-agent system designed to detect fake internships, job scams and phishing attacks.
+AI-powered multi-agent system designed to detect **fake internships, job scams and phishing attacks**.
 
 Tech Stack
 FastAPI • Python • Knowledge Base Systems
@@ -99,7 +99,7 @@ FastAPI • Python • Knowledge Base Systems
 
 ### 🤖 AluOptimize
 
-Industrial AI platform for predicting production output, reducing waste and improving efficiency in aluminum manufacturing.
+Industrial AI platform designed to **predict production output, reduce waste and improve manufacturing efficiency.**
 
 Tech Stack
 React • Django • MySQL
@@ -108,7 +108,7 @@ React • Django • MySQL
 
 ### 🏫 Patric Hall Booking System
 
-Full-stack hall booking platform with role-based approval workflows.
+Full-stack hall booking system with **role-based approval workflows and management dashboards.**
 
 Tech Stack
 React • Node.js • Express • MySQL
@@ -117,7 +117,7 @@ React • Node.js • Express • MySQL
 
 ### 📍 PatriGuide
 
-Campus navigation system built for Patrician College to help students locate departments using QR and voice guidance.
+Campus navigation system for **Patrician College** helping students locate facilities using QR and voice guidance.
 
 Tech Stack
 TypeScript • Web Technologies
@@ -126,21 +126,21 @@ TypeScript • Web Technologies
 
 ### 🎓 AI Career Compass
 
-AI-powered system recommending career paths based on skills and interests.
+AI-powered platform recommending **career paths based on skills and interests.**
 
 Tech Stack
-React • AI Recommendation Systems
+React • AI Recommendation Models
 
 ---
 
 # 🔬 Engineering Experiments
 
-I regularly explore new technologies through experimental projects including:
+I frequently explore new technologies through experimental projects such as:
 
-• AI prototypes
+• AI research prototypes
 • IoT concepts
 • system architecture experiments
-• developer tools
+• developer productivity tools
 • game development experiments
 
 ---
@@ -148,7 +148,9 @@ I regularly explore new technologies through experimental projects including:
 # 🛠 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nodejs,django,fastapi,mysql,git,github,postman"/>
+
 </p>
 
 ---
@@ -156,11 +158,15 @@ I regularly explore new technologies through experimental projects including:
 # 📊 GitHub Statistics
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=MukarramBambot&show_icons=true&theme=algolia"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukarramBambot&theme=algolia"/>
+
 </p>
 
 ---
@@ -168,7 +174,9 @@ I regularly explore new technologies through experimental projects including:
 # 🐍 Contribution Activity
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/MukarramBambot/MukarramBambot/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
@@ -176,7 +184,9 @@ I regularly explore new technologies through experimental projects including:
 # 🧊 3D Contribution Graph
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/MukarramBambot/MukarramBambot/main/profile-3d-contrib/profile-night-view.svg"/>
+
 </p>
 
 ---
@@ -184,7 +194,9 @@ I regularly explore new technologies through experimental projects including:
 # 📈 Developer Metrics
 
 <p align="center">
-<img src="./metrics.svg"/>
+
+<img src="https://raw.githubusercontent.com/MukarramBambot/MukarramBambot/main/metrics.svg"/>
+
 </p>
 
 ---
@@ -198,7 +210,7 @@ I regularly explore new technologies through experimental projects including:
 
 # 💼 Freelance Development
 
-I provide freelance services for:
+I currently provide freelance services for:
 
 • Web applications
 • SaaS platforms
@@ -206,14 +218,16 @@ I provide freelance services for:
 • automation tools
 • custom business software
 
-Open to **startup collaborations, freelance work and developer opportunities**.
+Open to **startup collaborations, freelance projects and developer opportunities.**
 
 ---
 
 # 👁 Profile Visitors
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=MukarramBambot&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -225,5 +239,7 @@ Open to **startup collaborations, freelance work and developer opportunities**.
 > Improve with every commit.
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1A4B8C&height=120&section=footer"/>
+
 </p>
