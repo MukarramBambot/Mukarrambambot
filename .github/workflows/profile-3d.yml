@@ -18,11 +18,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: MukarramBambot
-
-      - name: Commit & Push Graph
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add -A
-          git commit -m "update 3d contribution graph" || echo "No changes"
-          git push
