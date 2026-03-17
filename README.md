@@ -195,7 +195,7 @@ I frequently explore new technologies through experimental projects such as:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/MukarramBambot/MukarramBambot/main/metrics.svg"/>
+<img src="https://raw.githubusercontent.com/MukarramBambot/MukarramBambot/main/github-metrics.svg"/>
 
 </p>
 
