@@ -1,9 +1,7 @@
 <!-- HERO BANNER -->
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,100:2c5364&text=Mukarram%20Bambot&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Mukarram%20Bambot&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">
@@ -36,22 +34,23 @@ Building intelligent systems, SaaS platforms and real-world software products.
 
 I’m **Mukarram Bambot**, a developer based in **Chennai, India 🇮🇳**.
 
-I focus on building **backend-driven applications, AI-powered tools, and real-world software systems**.
+I build **backend-driven applications, AI-powered tools, SaaS platforms, and automation systems** that solve real-world problems.
 
-My work combines:
+My development interests include:
 
-• **Full-Stack Development**
-• **AI Systems Engineering**
-• **Automation Tools**
-• **SaaS Product Development**
+• Full-Stack Development
+• AI Systems Engineering
+• Automation Platforms
+• SaaS Product Development
+• System Architecture
 
-I enjoy designing **clean architectures, intelligent systems, and scalable software solutions**.
+I enjoy designing **clean backend architectures, scalable platforms, and intelligent developer tools**.
 
 ---
 
 # 🚀 Founder — MB Tech Labs
 
-**MB Tech Labs** is my independent development initiative focused on building modern digital products and business software.
+**MB Tech Labs** is my independent software development initiative focused on building modern digital products.
 
 We develop:
 
@@ -62,7 +61,7 @@ We develop:
 • 🛒 E-commerce Solutions
 • 📱 Mobile Applications
 
-Goal → **Help businesses digitize and scale using technology.**
+🎯 **Mission:** Help businesses digitize operations and scale through technology.
 
 ---
 
@@ -75,12 +74,12 @@ Limitless Innovation &
 Nerdy Ideas
 ```
 
-A personal AI assistant system currently under development designed to assist with:
+An AI assistant system currently under development designed to assist with:
 
 • coding assistance
 • automation workflows
 • developer productivity
-• intelligent task handling
+• intelligent decision systems
 
 🔗 Repository
 https://github.com/MukarramBambot/S.H.A.L.I.N.I
@@ -91,7 +90,7 @@ https://github.com/MukarramBambot/S.H.A.L.I.N.I
 
 ### 🛡 S-SAFE — Student Scam & Fraud Eliminator
 
-AI-powered multi-agent system designed to detect fake internships, job scams, and phishing attacks.
+AI-powered multi-agent system designed to detect fake internships, job scams and phishing attacks.
 
 Tech Stack
 FastAPI • Python • Knowledge Base Systems
@@ -100,7 +99,7 @@ FastAPI • Python • Knowledge Base Systems
 
 ### 🤖 AluOptimize
 
-Industrial AI platform designed to predict production output, reduce waste and improve efficiency in aluminum manufacturing.
+Industrial AI platform for predicting production output, reducing waste and improving efficiency in aluminum manufacturing.
 
 Tech Stack
 React • Django • MySQL
@@ -109,7 +108,7 @@ React • Django • MySQL
 
 ### 🏫 Patric Hall Booking System
 
-Full-stack campus hall booking system enabling role-based booking requests and approval workflows.
+Full-stack hall booking platform with role-based approval workflows.
 
 Tech Stack
 React • Node.js • Express • MySQL
@@ -118,7 +117,7 @@ React • Node.js • Express • MySQL
 
 ### 📍 PatriGuide
 
-Campus navigation system built for Patrician College that helps students locate facilities using QR and voice guidance.
+Campus navigation system built for Patrician College to help students locate departments using QR and voice guidance.
 
 Tech Stack
 TypeScript • Web Technologies
@@ -127,31 +126,29 @@ TypeScript • Web Technologies
 
 ### 🎓 AI Career Compass
 
-AI-powered career recommendation system based on skills and interests.
+AI-powered system recommending career paths based on skills and interests.
 
 Tech Stack
-React • AI Recommendation Models
+React • AI Recommendation Systems
 
 ---
 
 # 🔬 Engineering Experiments
 
-I frequently explore and experiment with different technologies including:
+I regularly explore new technologies through experimental projects including:
 
 • AI prototypes
 • IoT concepts
 • system architecture experiments
-• game engines
 • developer tools
+• game development experiments
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nodejs,django,fastapi,mysql,git,github,postman"/>
-
 </p>
 
 ---
@@ -159,35 +156,27 @@ I frequently explore and experiment with different technologies including:
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MukarramBambot&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=MukarramBambot&show_icons=true&theme=algolia"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukarramBambot&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukarramBambot&theme=algolia"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Activity
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/MukarramBambot/MukarramBambot/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
 
-# 📊 3D Contribution Graph
+# 🧊 3D Contribution Graph
 
 <p align="center">
-
 <img src="./profile-3d-contrib/profile-night-view.svg"/>
-
 </p>
 
 ---
@@ -195,9 +184,7 @@ I frequently explore and experiment with different technologies including:
 # 📈 Developer Metrics
 
 <p align="center">
-
-<img src="/metrics.svg"/>
-
+<img src="./metrics.svg"/>
 </p>
 
 ---
@@ -211,24 +198,22 @@ I frequently explore and experiment with different technologies including:
 
 # 💼 Freelance Development
 
-I currently offer freelance development services for:
+I provide freelance services for:
 
 • Web applications
 • SaaS platforms
-• backend API development
-• automation systems
-• custom software solutions
+• backend API systems
+• automation tools
+• custom business software
 
-Open to **startup collaborations, freelance projects, and developer opportunities.**
+Open to **startup collaborations, freelance work and developer opportunities**.
 
 ---
 
 # 👁 Profile Visitors
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=MukarramBambot&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -240,7 +225,5 @@ Open to **startup collaborations, freelance projects, and developer opportunitie
 > Improve with every commit.
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
