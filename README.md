@@ -176,7 +176,7 @@ I regularly explore new technologies through experimental projects including:
 # 🧊 3D Contribution Graph
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-view.svg"/>
+<img src="https://raw.githubusercontent.com/MukarramBambot/MukarramBambot/main/profile-3d-contrib/profile-night-view.svg"/>
 </p>
 
 ---
