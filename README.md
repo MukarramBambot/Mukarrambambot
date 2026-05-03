@@ -1,65 +1,132 @@
-<!-- HERO BANNER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:1A4B8C,100:3B82F6&text=Mukarram%20Bambot&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
-</p>
+# Mukarram Bambot
 
-<h2 align="center">
-AI Systems Developer • Full-Stack Engineer • Founder of MB Tech Labs
-</h2>
+### AI Systems Developer • Full-Stack Engineer • Founder of MB Tech Labs
 
-<p align="center">
 Building intelligent systems, scalable SaaS platforms, and real-world software products.
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mukarrambambot">
-<img src="https://img.shields.io/badge/LinkedIn-Network-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mukbambot118@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://mukarrambambotportfolio.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-Website-3B82F6?style=for-the-badge"/>
-</a>
-</p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-💻 I'm currently working on:  
-Building AI-powered systems, backend-driven applications, and scalable SaaS products under **MB Tech Labs**, along with contributing to open-source.
+💻 **Currently Working On**  
+Building AI-powered systems, backend-driven applications, and scalable SaaS products under MB Tech Labs, while contributing to open-source.
 
-🤝 I'm looking to collaborate on:  
+🤝 **Looking to Collaborate On**  
 Open-source projects, AI tools, SaaS platforms, automation systems, and high-impact software ideas.
 
-🆘 I'm looking for help with:  
+🆘 **Seeking Help With**  
 Scaling complex systems, distributed architectures, and production-grade AI systems.
 
-🌱 I'm currently learning:  
-Advanced system design, AI engineering, distributed systems, and building production-ready intelligent platforms.
+🌱 **Currently Learning**  
+Advanced system design, AI engineering, distributed systems, and production-ready intelligent platforms.
 
-💬 Ask me about:  
+💬 **Ask Me About**  
 Full-stack development, backend systems, AI applications, SaaS architecture, automation tools, open-source, and startup building.
 
-⚡ Fun fact:  
-I turn ideas into real-world systems — from open-source contributions to scalable products 🚀
+⚡ **Fun Fact**  
+I turn ideas into real-world systems — from open-source contributions to scalable products.
 
 ---
 
-# 🚀 Founder — MB Tech Labs
+## 🚀 Founder — MB Tech Labs
 
-**MB Tech Labs** is my independent development initiative focused on building scalable digital products and software systems.
+MB Tech Labs is my independent development initiative focused on building scalable digital products and software systems.
 
-### We build:
-• 🌐 Web Applications  
-• ⚙ Automation Systems  
-• 📦 SaaS Platforms  
-• 🤖 AI Tools  
-• 📱 Mobile Apps  
+### What We Build
+- Web Applications  
+- Automation Systems  
+- SaaS Platforms  
+- AI Tools  
+- Mobile Applications  
 
-🎯 Mission: **Help businesses scale using technology**
+**Mission:** Help businesses scale using technology.
 
 ---
 
-# 🤖 S.H.A.L.I.N.I — Personal AI Assistant
+## 🤖 S.H.A.L.I.N.I — Personal AI Assistant
+
+A personal AI system focused on:
+- Coding assistance  
+- Workflow automation  
+- Developer productivity  
+- Intelligent task handling  
+
+Repository:  
+https://github.com/MukarramBambot/S.H.A.L.I.N.I
+
+---
+
+## 🧩 Featured Projects
+
+### S-SAFE — Scam Detection System
+AI multi-agent system for detecting job scams and phishing  
+**Tech:** FastAPI, Python  
+
+### AluOptimize
+Industrial AI platform for efficiency and waste reduction  
+**Tech:** React, Django, MySQL  
+
+### Hall Booking System
+Role-based booking system with admin dashboards  
+**Tech:** React, Node.js, MySQL  
+
+### PatriGuide
+Campus navigation system using QR and voice  
+**Tech:** TypeScript  
+
+### AI Career Compass
+AI-based career recommendation platform  
+**Tech:** React, AI Models  
+
+---
+
+## 🔬 Engineering Experiments
+
+- AI prototypes  
+- IoT systems  
+- Developer tools  
+- System architecture experiments  
+- Game development  
+
+---
+
+## 🛠 Tech Stack
+
+Python • JavaScript • TypeScript • Java • C/C++  
+React • Node.js • Django • FastAPI  
+MySQL • AWS • Git • GitHub • Vercel  
+
+---
+
+## 🌐 Connect
+
+LinkedIn: https://www.linkedin.com/in/mukarrambambot  
+Email: mukbambot118@gmail.com  
+Portfolio: https://mukarrambambotportfolio.onrender.com  
+
+---
+
+## 🏆 Achievements
+
+- UI Design Hackathon Winner  
+- Loyola College AI Hackathon — UI Prize  
+
+---
+
+## 💼 Freelance
+
+Available for:
+- SaaS Development  
+- Backend APIs  
+- AI Systems  
+- Automation Tools  
+
+Open to collaborations, freelance, and startup opportunities.
+
+---
+
+## ⚡ Philosophy
+
+Build systems that solve real problems  
+Learn continuously  
+Improve with every commit
