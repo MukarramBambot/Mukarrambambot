@@ -1,132 +1,142 @@
-# Mukarram Bambot
+<!-- TOP BANNER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:1A4B8C,100:3B82F6&text=Mukarram%20Bambot&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff"/>
+</p>
 
-### AI Systems Developer • Full-Stack Engineer • Founder of MB Tech Labs
+<h2 align="center">
+AI Systems Developer • Full-Stack Engineer • Founder of MB Tech Labs
+</h2>
 
+<p align="center">
 Building intelligent systems, scalable SaaS platforms, and real-world software products.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mukarrambambot">
+<img src="https://img.shields.io/badge/LinkedIn-Network-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mukbambot118@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://mukarrambambotportfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Website-3B82F6?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me:
 
-💻 **Currently Working On**  
-Building AI-powered systems, backend-driven applications, and scalable SaaS products under MB Tech Labs, while contributing to open-source.
+💻 I'm currently working on:<br>
+Building AI-powered systems, backend-driven applications, and scalable SaaS products under **MB Tech Labs**, along with contributing to open-source.<br><br>
 
-🤝 **Looking to Collaborate On**  
-Open-source projects, AI tools, SaaS platforms, automation systems, and high-impact software ideas.
+🤝 I'm looking to collaborate on:<br>
+Open-source projects, AI tools, SaaS platforms, automation systems, and high-impact software ideas.<br><br>
 
-🆘 **Seeking Help With**  
-Scaling complex systems, distributed architectures, and production-grade AI systems.
+🆘 I'm looking for help with:<br>
+Scaling complex systems, distributed architectures, and production-grade AI systems.<br><br>
 
-🌱 **Currently Learning**  
-Advanced system design, AI engineering, distributed systems, and production-ready intelligent platforms.
+🌱 I'm currently learning:<br>
+Advanced system design, AI engineering, distributed systems, and building production-ready intelligent platforms.<br><br>
 
-💬 **Ask Me About**  
-Full-stack development, backend systems, AI applications, SaaS architecture, automation tools, open-source, and startup building.
+💬 Ask me about:<br>
+Full-stack development, backend systems, AI applications, SaaS architecture, automation tools, open-source, and startup building.<br><br>
 
-⚡ **Fun Fact**  
-I turn ideas into real-world systems — from open-source contributions to scalable products.
-
----
-
-## 🚀 Founder — MB Tech Labs
-
-MB Tech Labs is my independent development initiative focused on building scalable digital products and software systems.
-
-### What We Build
-- Web Applications  
-- Automation Systems  
-- SaaS Platforms  
-- AI Tools  
-- Mobile Applications  
-
-**Mission:** Help businesses scale using technology.
+⚡ Fun fact:<br>
+I turn ideas into real-world systems — from open-source contributions to scalable products 🚀
 
 ---
 
-## 🤖 S.H.A.L.I.N.I — Personal AI Assistant
+# 🚀 Founder — MB Tech Labs
 
-A personal AI system focused on:
-- Coding assistance  
-- Workflow automation  
-- Developer productivity  
-- Intelligent task handling  
+**MB Tech Labs** builds scalable software, AI systems, and SaaS products.
 
-Repository:  
-https://github.com/MukarramBambot/S.H.A.L.I.N.I
+• 🌐 Web Apps  
+• ⚙ Automation Systems  
+• 📦 SaaS Platforms  
+• 🤖 AI Tools  
+• 📱 Mobile Apps  
 
----
-
-## 🧩 Featured Projects
-
-### S-SAFE — Scam Detection System
-AI multi-agent system for detecting job scams and phishing  
-**Tech:** FastAPI, Python  
-
-### AluOptimize
-Industrial AI platform for efficiency and waste reduction  
-**Tech:** React, Django, MySQL  
-
-### Hall Booking System
-Role-based booking system with admin dashboards  
-**Tech:** React, Node.js, MySQL  
-
-### PatriGuide
-Campus navigation system using QR and voice  
-**Tech:** TypeScript  
-
-### AI Career Compass
-AI-based career recommendation platform  
-**Tech:** React, AI Models  
+🎯 Mission: **Build tech that helps businesses scale**
 
 ---
 
-## 🔬 Engineering Experiments
+# 🤖 S.H.A.L.I.N.I
+Somewhat Hyperactive Assistant for Limitless Innovation & Nerdy Ideas
 
-- AI prototypes  
-- IoT systems  
-- Developer tools  
-- System architecture experiments  
-- Game development  
+AI assistant focused on:
+• coding  
+• automation  
+• productivity  
+• intelligent workflows  
 
----
-
-## 🛠 Tech Stack
-
-Python • JavaScript • TypeScript • Java • C/C++  
-React • Node.js • Django • FastAPI  
-MySQL • AWS • Git • GitHub • Vercel  
+🔗 https://github.com/MukarramBambot/S.H.A.L.I.N.I
 
 ---
 
-## 🌐 Connect
+# 🧩 Projects
 
-LinkedIn: https://www.linkedin.com/in/mukarrambambot  
-Email: mukbambot118@gmail.com  
-Portfolio: https://mukarrambambotportfolio.onrender.com  
-
----
-
-## 🏆 Achievements
-
-- UI Design Hackathon Winner  
-- Loyola College AI Hackathon — UI Prize  
+🛡 **S-SAFE** — Scam detection AI  
+🤖 **AluOptimize** — Industrial AI platform  
+🏫 **Hall Booking System** — Full-stack system  
+📍 **PatriGuide** — Campus navigation  
+🎓 **AI Career Compass** — Career AI  
 
 ---
 
-## 💼 Freelance
+# 🛠 Tech Stack
 
-Available for:
-- SaaS Development  
-- Backend APIs  
-- AI Systems  
-- Automation Tools  
-
-Open to collaborations, freelance, and startup opportunities.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nodejs,django,fastapi,mysql,git,github,aws,vercel"/>
+</p>
 
 ---
 
-## ⚡ Philosophy
+# 🌐 Socials
 
-Build systems that solve real problems  
-Learn continuously  
-Improve with every commit
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/mukbambot)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mukbambot118)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukarrambambot)
+[![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/MukBambot)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MukarramBambot&show_icons=true&theme=algolia"/>
+<img src="https://streak-stats.demolab.com/?user=MukarramBambot&theme=algolia"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏆 UI Design Hackathon Winner  
+🥈 Loyola AI Hackathon  
+
+---
+
+# 💼 Freelance
+
+• SaaS Development  
+• Backend APIs  
+• AI Systems  
+• Automation Tools  
+
+Open for **collabs & startups**
+
+---
+
+# ⚡ Philosophy
+
+> Build systems that solve real problems  
+> Learn continuously  
+> Improve with every commit  
+
+---
+
+<!-- BOTTOM BANNER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1A4B8C&height=120&section=footer"/>
+</p>
