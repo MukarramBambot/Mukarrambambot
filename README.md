@@ -6,10 +6,10 @@
 <!--                              SECTION A — HERO / LANDING PAGE                              -->
 <!-- ========================================================================================= -->
 
-<!-- PREMIUM COMPOSITE HERO BANNER -->
+<!-- CODE-GENERATED MB TECH LABS HERO -->
 <p align="center">
   <img
-    src="./img/Electric Blue Neural Hexagon.png"
+    src="./img/Mukarram-Bambot-Hero.svg"
     width="100%"
     alt="Mukarram Bambot — AI Systems Developer, Full-Stack Engineer and Founder of MB Tech Labs"
   />
@@ -307,38 +307,54 @@
 <h2>🛠 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nodejs,django,fastapi,mysql,git,github,aws,vercel&theme=dark" alt="Tech Stack Icons: Python, JavaScript, TypeScript, Java, C++, React, Node.js, Django, FastAPI, MySQL, Git, GitHub, AWS, Vercel" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php,html,css,react,nodejs,django,fastapi,mysql,postgres,git,github,aws,azure,vercel&theme=dark" alt="Tech Stack Icons: Python, JavaScript, TypeScript, Java, C, C++, PHP, HTML5, CSS3, React, Node.js, Django, FastAPI, MySQL, PostgreSQL, Git, GitHub, AWS, Azure, Vercel" />
 </div>
 
 <br/>
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <b>Languages</b><br/><br/>
       <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square&logo=python&logoColor=white&labelColor=0A0F1D" alt="Python" />
       <img src="https://img.shields.io/badge/JavaScript-06B6D4?style=flat-square&logo=javascript&logoColor=white&labelColor=0A0F1D" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white&labelColor=0A0F1D" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square&logo=openjdk&logoColor=white&labelColor=0A0F1D" alt="Java" />
-      <img src="https://img.shields.io/badge/C++-06B6D4?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0A0F1D" alt="C++" />
+      <img src="https://img.shields.io/badge/C-06B6D4?style=flat-square&logo=c&logoColor=white&labelColor=0A0F1D" alt="C" />
+      <img src="https://img.shields.io/badge/C++-2563EB?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0A0F1D" alt="C++" />
+      <img src="https://img.shields.io/badge/PHP-6366F1?style=flat-square&logo=php&logoColor=white&labelColor=0A0F1D" alt="PHP" />
     </td>
-    <td width="25%" align="center" valign="top">
-      <b>Frontend &amp; Runtime</b><br/><br/>
-      <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0A0F1D" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-06B6D4?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0F1D" alt="Node.js" />
+    <td width="33%" align="center" valign="top">
+      <b>Frontend &amp; Web</b><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-3B82F6?style=flat-square&logo=html5&logoColor=white&labelColor=0A0F1D" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-06B6D4?style=flat-square&logo=css3&logoColor=white&labelColor=0A0F1D" alt="CSS3" />
+      <img src="https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0A0F1D" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0F1D" alt="Node.js" />
     </td>
-    <td width="25%" align="center" valign="top">
-      <b>Backend &amp; Database</b><br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white&labelColor=0A0F1D" alt="FastAPI" />
+    <td width="33%" align="center" valign="top">
+      <b>Backend &amp; Frameworks</b><br/><br/>
       <img src="https://img.shields.io/badge/Django-3B82F6?style=flat-square&logo=django&logoColor=white&labelColor=0A0F1D" alt="Django" />
-      <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white&labelColor=0A0F1D" alt="MySQL" />
+      <img src="https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white&labelColor=0A0F1D" alt="FastAPI" />
     </td>
-    <td width="25%" align="center" valign="top">
-      <b>Cloud &amp; Versioning</b><br/><br/>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <b>Databases</b><br/><br/>
+      <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white&labelColor=0A0F1D" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-06B6D4?style=flat-square&logo=postgresql&logoColor=white&labelColor=0A0F1D" alt="PostgreSQL" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>Cloud, Hosting &amp; Deployment</b><br/><br/>
       <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0A0F1D" alt="AWS" />
-      <img src="https://img.shields.io/badge/Vercel-06B6D4?style=flat-square&logo=vercel&logoColor=white&labelColor=0A0F1D" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Microsoft_Azure-06B6D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0A0F1D" alt="Microsoft Azure" />
+      <img src="https://img.shields.io/badge/Vercel-2563EB?style=flat-square&logo=vercel&logoColor=white&labelColor=0A0F1D" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Hostinger-6366F1?style=flat-square&logo=hostinger&logoColor=white&labelColor=0A0F1D" alt="Hostinger" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b>Tools &amp; Compilers</b><br/><br/>
       <img src="https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white&labelColor=0A0F1D" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white&labelColor=0A0F1D" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GCC-Compiler-06B6D4?style=flat-square&logo=gnu&logoColor=white&labelColor=0A0F1D" alt="GCC" />
     </td>
   </tr>
 </table>
@@ -472,6 +488,7 @@
   </blockquote>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1A4B8C,100:050811&height=110&section=footer" width="100%" alt="Electric Blue Footer Wave" />
-</div>
+<!-- CODE-GENERATED MB TECH LABS FOOTER -->
+<p align="center">
+  <img src="./img/Mukarram-Bambot-Footer.svg" width="100%" alt="Mukarram Bambot — MB Tech Labs Futuristic Circuit Footer" />
+</p>

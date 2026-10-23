@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 180" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02040B" />
+      <stop offset="50%" stop-color="#04091A" />
+      <stop offset="100%" stop-color="#02050E" />
+    </linearGradient>
+
+    <!-- Center Emblem Bloom -->
+    <radialGradient id="footer-bloom" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0066FF" stop-opacity="0.45" />
+      <stop offset="35%" stop-color="#00D4FF" stop-opacity="0.22" />
+      <stop offset="70%" stop-color="#003388" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#02040B" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Metallic Monogram Gradient -->
+    <linearGradient id="metal-mb-mini" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="40%" stop-color="#F8FAFC" />
+      <stop offset="75%" stop-color="#E2E8F0" />
+      <stop offset="100%" stop-color="#93C5FD" />
+    </linearGradient>
+
+    <!-- Hexagon Core Fill -->
+    <radialGradient id="hex-interior-mini" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#0A2A4E" stop-opacity="0.9" />
+      <stop offset="60%" stop-color="#05142B" stop-opacity="0.96" />
+      <stop offset="100%" stop-color="#020815" stop-opacity="0.99" />
+    </radialGradient>
+
+    <!-- Linear Circuit Fades -->
+    <linearGradient id="line-fade-left" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0055FF" stop-opacity="0.1" />
+      <stop offset="60%" stop-color="#00D4FF" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="1" />
+    </linearGradient>
+
+    <linearGradient id="line-fade-right" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="1" />
+      <stop offset="40%" stop-color="#00D4FF" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#0055FF" stop-opacity="0.1" />
+    </linearGradient>
+
+    <!-- Digital Matrix Dots -->
+    <pattern id="footer-dots" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="16" cy="16" r="1" fill="#00D4FF" opacity="0.15" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow-neon-mini" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur1" />
+      <feGaussianBlur stdDeviation="6" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="drop-shadow-mini" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="8" flood-color="#010612" flood-opacity="0.9" />
+    </filter>
+  </defs>
+
+  <!-- ========================================================= -->
+  <!-- 1. BACKGROUND & AMBIENT GLOW                              -->
+  <!-- ========================================================= -->
+  <g id="footer-background">
+    <rect width="1600" height="180" fill="url(#footer-bg)" />
+    <rect width="1600" height="180" fill="url(#footer-bloom)" />
+    <rect width="1600" height="180" fill="url(#footer-dots)" opacity="0.6" />
+  </g>
+
+  <!-- ========================================================= -->
+  <!-- 2. CIRCUIT TRACES & BUS RAILS                             -->
+  <!-- ========================================================= -->
+  <g id="footer-circuitry" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top Framing Circuit Rail: Left & Right Wings meeting near center hexagon -->
+    <!-- Left Wing -->
+    <path d="M 0 35 L 240 35 L 290 65 L 560 65 L 610 35 L 720 35 L 745 60"
+          fill="none" stroke="url(#line-fade-left)" stroke-width="2" />
+    <path d="M 0 60 L 180 60 L 220 90 L 480 90 L 520 60 L 680 60"
+          fill="none" stroke="#0077FE" stroke-width="1.2" opacity="0.45" />
+
+    <!-- Left Wing Nodes -->
+    <circle cx="290" cy="65" r="3" fill="#00F0FF" />
+    <circle cx="560" cy="65" r="3" fill="#00F0FF" />
+    <circle cx="745" cy="60" r="3.5" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+
+    <!-- Right Wing -->
+    <path d="M 855 60 L 880 35 L 990 35 L 1040 65 L 1310 65 L 1360 35 L 1600 35"
+          fill="none" stroke="url(#line-fade-right)" stroke-width="2" />
+    <path d="M 920 60 L 1080 60 L 1120 90 L 1380 90 L 1420 60 L 1600 60"
+          fill="none" stroke="#0077FE" stroke-width="1.2" opacity="0.45" />
+
+    <!-- Right Wing Nodes -->
+    <circle cx="855" cy="60" r="3.5" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+    <circle cx="1040" cy="65" r="3" fill="#00F0FF" />
+    <circle cx="1310" cy="65" r="3" fill="#00F0FF" />
+
+    <!-- Edge IC Connector Pins -->
+    <line x1="0" y1="85" x2="35" y2="85" stroke="#00D4FF" stroke-width="1.5" opacity="0.5" />
+    <line x1="0" y1="105" x2="50" y2="105" stroke="#0077FE" stroke-width="1.5" opacity="0.4" />
+    <line x1="0" y1="125" x2="30" y2="125" stroke="#00D4FF" stroke-width="1.5" opacity="0.5" />
+
+    <line x1="1600" y1="85" x2="1565" y2="85" stroke="#00D4FF" stroke-width="1.5" opacity="0.5" />
+    <line x1="1600" y1="105" x2="1550" y2="105" stroke="#0077FE" stroke-width="1.5" opacity="0.4" />
+    <line x1="1600" y1="125" x2="1570" y2="125" stroke="#00D4FF" stroke-width="1.5" opacity="0.5" />
+
+    <!-- Lower Horizontal Rail -->
+    <line x1="60" y1="145" x2="680" y2="145" stroke="#0055DD" stroke-width="1" opacity="0.4" />
+    <circle cx="680" cy="145" r="2.5" fill="#00D4FF" />
+    <line x1="920" y1="145" x2="1540" y2="145" stroke="#0055DD" stroke-width="1" opacity="0.4" />
+    <circle cx="920" cy="145" r="2.5" fill="#00D4FF" />
+  </g>
+
+  <!-- ========================================================= -->
+  <!-- 3. NEURAL WAVES & DATA FLOW PATHWAYS                      -->
+  <!-- ========================================================= -->
+  <g id="footer-neural-network" fill="none">
+    <!-- Gentle flowing harmonic waves bridging across the canvas -->
+    <path d="M 0 115 C 320 85, 520 135, 740 100" stroke="#0066FF" stroke-width="1.6" opacity="0.4" />
+    <path d="M 0 125 C 340 95, 540 145, 750 110" stroke="#00D4FF" stroke-width="1.8" opacity="0.55" />
+    <path d="M 0 135 C 360 105, 560 155, 760 120" stroke="#38BDF8" stroke-width="1.4" opacity="0.4" />
+
+    <path d="M 860 100 C 1080 135, 1280 85, 1600 115" stroke="#0066FF" stroke-width="1.6" opacity="0.4" />
+    <path d="M 850 110 C 1060 145, 1260 95, 1600 125" stroke="#00D4FF" stroke-width="1.8" opacity="0.55" />
+    <path d="M 840 120 C 1040 155, 1240 105, 1600 135" stroke="#38BDF8" stroke-width="1.4" opacity="0.4" />
+
+    <!-- Synaptic Nodes on wave curves -->
+    <circle cx="340" cy="95" r="3" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+    <circle cx="540" cy="145" r="2.5" fill="#00F0FF" />
+    <circle cx="1060" cy="145" r="2.5" fill="#00F0FF" />
+    <circle cx="1260" cy="95" r="3" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+  </g>
+
+  <!-- ========================================================= -->
+  <!-- 4. CENTER MB TECH LABS MINI HEX EMBLEM                    -->
+  <!-- ========================================================= -->
+  <!-- Center: (800, 90) -->
+  <g id="footer-emblem" filter="url(#drop-shadow-mini)">
+    <!-- Outer Orbital Ring -->
+    <circle cx="800" cy="90" r="72" fill="none" stroke="#0077FE" stroke-width="1" stroke-dasharray="3 6" opacity="0.5" />
+
+    <!-- Orbital Atomic Ellipses -->
+    <ellipse cx="800" cy="90" rx="66" ry="26" fill="none" stroke="#00B4D8" stroke-width="1.2" opacity="0.45" transform="rotate(-28 800 90)" />
+    <circle cx="745" cy="62" r="2.5" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+    <circle cx="855" cy="118" r="2.5" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+
+    <ellipse cx="800" cy="90" rx="66" ry="26" fill="none" stroke="#0077FE" stroke-width="1.2" opacity="0.4" transform="rotate(28 800 90)" />
+    <circle cx="745" cy="118" r="2.5" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+    <circle cx="855" cy="62" r="2.5" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+
+    <!-- Precision Nested Hexagons around (800, 90) -->
+    <!-- R_outer = 56: (800, 34), (848.5, 62), (848.5, 118), (800, 146), (751.5, 118), (751.5, 62) -->
+    <!-- R_inner = 46: (800, 44), (840, 67),   (840, 113),   (800, 136), (760, 113),   (760, 67) -->
+
+    <!-- Outer Hexagon Frame -->
+    <polygon points="800,34 848.5,62 848.5,118 800,146 751.5,118 751.5,62"
+             fill="none" stroke="#0044AA" stroke-width="1.8" opacity="0.75" />
+
+    <!-- Glowing Electric Hexagon Frame -->
+    <polygon points="800,36 846.5,63 846.5,117 800,144 753.5,117 753.5,63"
+             fill="none" stroke="#00D4FF" stroke-width="2.2" filter="url(#glow-neon-mini)" />
+
+    <!-- Inner Core Hexagon with Dark Shield -->
+    <polygon points="800,44 840,67 840,113 800,136 760,113 760,67"
+             fill="url(#hex-interior-mini)" stroke="#00F0FF" stroke-width="1.4" />
+
+    <!-- Crosshair Reticles -->
+    <line x1="800" y1="20" x2="800" y2="160" stroke="#0077FE" stroke-width="0.8" opacity="0.6" stroke-dasharray="4 4" />
+    <line x1="720" y1="90" x2="880" y2="90" stroke="#0077FE" stroke-width="0.8" opacity="0.6" stroke-dasharray="4 4" />
+
+    <!-- Vertex Beacons -->
+    <circle cx="800" cy="20" r="3.5" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+    <circle cx="800" cy="160" r="3.5" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+    <circle cx="720" cy="90" r="3" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+    <circle cx="880" cy="90" r="3" fill="#00F0FF" filter="url(#glow-neon-mini)" />
+
+    <!-- Center Metallic MB Monogram -->
+    <text x="800" y="92"
+          text-anchor="middle"
+          dominant-baseline="central"
+          font-family="'Segoe UI', Roboto, Arial, sans-serif"
+          font-weight="900"
+          font-size="34"
+          letter-spacing="1"
+          fill="#00E5FF"
+          opacity="0.9"
+          filter="url(#glow-neon-mini)">MB</text>
+
+    <text x="800" y="91"
+          text-anchor="middle"
+          dominant-baseline="central"
+          font-family="'Segoe UI', Roboto, Arial, sans-serif"
+          font-weight="900"
+          font-size="34"
+          letter-spacing="1"
+          fill="url(#metal-mb-mini)">MB</text>
+  </g>
+
+  <!-- ========================================================= -->
+  <!-- 5. TELEMETRY STAMPS & SYSTEM IDENTIFIERS                  -->
+  <!-- ========================================================= -->
+  <g id="footer-telemetry" font-family="'Segoe UI', Roboto, monospace" font-size="11" letter-spacing="2.5" fill="#38BDF8" opacity="0.75">
+    <text x="240" y="115">MB TECH LABS  //  AI SYSTEMS &amp; FULL-STACK ARCHITECTURE</text>
+    <text x="1360" y="115" text-anchor="end">SYS.STATUS: OPERATIONAL  //  SCALE &amp; SHIP</text>
+  </g>
+</svg>
