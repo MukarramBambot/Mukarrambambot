@@ -57,7 +57,7 @@
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="./MB%20Pic.png" width="270" alt="Mukarram Bambot — Personal Photograph" />
+      <img src="./img/MB%20Pic.png" width="270" alt="Mukarram Bambot — Personal Photograph" />
       <br/>
       <sub><b>Mukarram Bambot</b> • Founder, MB Tech Labs</sub>
     </td>
