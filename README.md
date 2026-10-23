@@ -9,7 +9,7 @@
 <!-- PREMIUM COMPOSITE HERO BANNER -->
 <p align="center">
   <img
-    src="./img/Mukarram-Bambot-Hero-Banner.jpg"
+    src="./img/Electric Blue Neural Hexagon.png"
     width="100%"
     alt="Mukarram Bambot — AI Systems Developer, Full-Stack Engineer and Founder of MB Tech Labs"
   />
