@@ -6,39 +6,36 @@
 <!--                              SECTION A — HERO / LANDING PAGE                              -->
 <!-- ========================================================================================= -->
 
-<div align="center">
-  <img src="./img/Electric%20Blue%20Neural%20Hexagon.png" width="100%" alt="Mukarram Bambot — Futuristic Electric Blue Neural Hexagon Hero Banner" />
-</div>
+<!-- PREMIUM COMPOSITE HERO BANNER -->
+<p align="center">
+  <img
+    src="./img/Mukarram-Bambot-Hero-Banner.jpg"
+    width="100%"
+    alt="Mukarram Bambot — AI Systems Developer, Full-Stack Engineer and Founder of MB Tech Labs"
+  />
+</p>
 
-<br/>
-
-<div align="center">
-  <h1>MUKARRAM BAMBOT</h1>
-  <h3>AI Systems Developer &nbsp;•&nbsp; Full-Stack Engineer &nbsp;•&nbsp; Founder of MB Tech Labs</h3>
-  <p><i>“Building intelligent systems. Shipping real-world software.”</i></p>
-
-  <!-- TYPING ANIMATION -->
+<!-- HERO CONTACT & PORTFOLIO BADGES -->
+<p align="center">
   <a href="https://www.mukbambot.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+Engineering+%E2%80%A2+Intelligent+Systems+%E2%80%A2+Scalable+SaaS;Backend+Engineering+%E2%80%A2+Full-Stack+Architecture+%E2%80%A2+Automation;Founder+%40+MB+Tech+Labs+%7C+Shipping+Real-World+Software" alt="Typing Animation: AI Engineering, Intelligent Systems, Scalable SaaS, Backend Engineering, Automation" />
+    <img src="https://img.shields.io/badge/Portfolio-mukbambot.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0F1D" alt="Official Portfolio: mukbambot.com" />
   </a>
+  <a href="https://github.com/MukarramBambot">
+    <img src="https://img.shields.io/badge/GitHub-MukarramBambot-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1D" alt="GitHub: MukarramBambot" />
+  </a>
+  <a href="https://www.linkedin.com/in/mukarrambambot">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1D" alt="LinkedIn: mukarrambambot" />
+  </a>
+  <a href="mailto:mukbambot118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1D" alt="Email: mukbambot118@gmail.com" />
+  </a>
+</p>
 
-  <br/>
-
-  <!-- HERO CONTACT & PORTFOLIO BADGES -->
-  <p>
-    <a href="https://www.mukbambot.com/">
-      <img src="https://img.shields.io/badge/Portfolio-mukbambot.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0F1D" alt="Official Portfolio: mukbambot.com" />
-    </a>
-    <a href="https://github.com/MukarramBambot">
-      <img src="https://img.shields.io/badge/GitHub-MukarramBambot-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1D" alt="GitHub: MukarramBambot" />
-    </a>
-    <a href="https://www.linkedin.com/in/mukarrambambot">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1D" alt="LinkedIn: mukarrambambot" />
-    </a>
-    <a href="mailto:mukbambot118@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1D" alt="Email: mukbambot118@gmail.com" />
-    </a>
-  </p>
+<!-- COMPLEMENTARY TYPING ANIMATION (NON-REDUNDANT TERMINAL FOCUS) -->
+<div align="center">
+  <a href="https://www.mukbambot.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%3E+turn+ideas+into+real+systems+%7C+build.+ship.+scale.;Architecting+Production+AI+Pipelines+%26+Scalable+SaaS;Full-Stack+Systems+%E2%80%A2+Backend+APIs+%E2%80%A2+Intelligent+Automation" alt="Typing Animation: Architecting Production AI Pipelines, Scalable SaaS, Full-Stack Systems, Backend APIs, Intelligent Automation" />
+  </a>
 </div>
 
 <br/>
@@ -49,12 +46,11 @@
     <td width="64%" valign="middle">
       <h3>⚡ Engineering Intelligent Systems &amp; Scalable Digital Products</h3>
       <p>
-        I am <b>Mukarram Bambot</b> — an <b>AI Systems Developer</b>, <b>Full-Stack Engineer</b>, and the <b>Founder of MB Tech Labs</b>. I design and build AI-powered applications, backend-driven platforms, automation tools, and scalable SaaS products engineered for real-world deployment.
+        I design and build AI-powered applications, backend-driven platforms, automation tools, and scalable SaaS products engineered for real-world deployment. My work bridges deep full-stack software engineering with practical AI systems and product execution.
       </p>
-      <pre><code>&gt; identity   : "Mukarram Bambot"
-&gt; role       : "AI Systems Developer • Full-Stack Engineer"
-&gt; venture    : "Founder of MB Tech Labs"
+      <pre><code>&gt; venture    : "MB Tech Labs"
 &gt; focus      : ["AI Systems", "Scalable SaaS", "Backend APIs", "Automation"]
+&gt; stack      : ["Python", "TypeScript", "React", "FastAPI", "Django", "Node.js", "AWS"]
 &gt; website    : "https://www.mukbambot.com/"</code></pre>
       <p>
         <img src="https://img.shields.io/badge/Domain-AI_Engineering-3B82F6?style=flat-square&labelColor=0D1117" alt="AI Engineering" />
@@ -65,7 +61,7 @@
     <td width="36%" align="center" valign="middle">
       <img src="./img/MB%20Pic.png" width="260" alt="Mukarram Bambot — Personal Photograph" />
       <br/>
-      <sub><b>Mukarram Bambot</b> • AI Engineer &amp; Founder</sub>
+      <sub><b>Mukarram Bambot</b> • Founder, MB Tech Labs</sub>
     </td>
   </tr>
 </table>
