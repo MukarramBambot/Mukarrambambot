@@ -5,7 +5,7 @@
 <!-- HERO BACKGROUND: keep mb-tech-labs-background.png in the img/ folder -->
 <p align="center">
   <img
-    src="./img/mb-tech-labs-background.png"
+    src="./img/Electric Blue Neural Hexagon.png"
     alt="Dark futuristic blue AI network and circuitry background"
     width="100%"
   />
